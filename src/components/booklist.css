@@ -1,0 +1,19 @@
+.book-list{
+    padding:50px;
+    border: 1px solid black ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+
+}
+.bookname{
+    display: flex;
+    border: 1px solid black;
+    font-size: 15px;
+    color: grey;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 2px;
+
+}
